@@ -36,4 +36,11 @@ img {
     display: block;
     height: auto;
     margin: 0 auto;
+    border-radius: 5px;
+}
+
+#img-div {
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
 }
