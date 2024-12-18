@@ -59,3 +59,7 @@ ul {
     text-align: left;
     line-height: 1.6;
 }
+
+li {
+    margin: 16px 0;
+}
